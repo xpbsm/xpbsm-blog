@@ -142,3 +142,4 @@ module.exports = {
 ```
 
 WARNING: Make sure to edit `static/robots.txt` to include your domain for the sitemap!
+# xp-blog
