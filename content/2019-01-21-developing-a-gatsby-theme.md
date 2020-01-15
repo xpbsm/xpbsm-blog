@@ -5,11 +5,9 @@ thumbnail: '../thumbnails/wp.png'
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 slug: developing-a-gatsby-theme
 categories: 
-    - Nodejs
-    - Creative Thinking
+    - 想法
 tags:
   - tag one
-  - gatsby
 ---
 
 ## Accipit alto fecerat mutato centauri haerent dominoque

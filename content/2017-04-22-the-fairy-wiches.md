@@ -3,7 +3,7 @@ date: 2017-04-22
 title: "The Fairy's Witches"
 cover: "https://unsplash.it/1152/300/?random?FaityWitch"
 categories: 
-    - Gatsby
+    - 想法
 ---
 
 ## Ait oculos

@@ -11,12 +11,9 @@ const Header = () => (
     </h1>
     <nav>
       <ul className={styles.mainNav}> 
-        <li>
-          <Link to="/about"  activeClassName={styles.activeNav}>About</Link>
-        </li>
         <Categories activeClassName={styles.activeNav} />
         <li>
-          <Link to="/contact"  activeClassName={styles.activeNav}>Contact</Link>
+          <Link to="/contact"  activeClassName={styles.activeNav}>关于</Link>
         </li>
       </ul>   
     </nav>   

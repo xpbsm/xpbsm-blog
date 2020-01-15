@@ -3,8 +3,7 @@ date: 2017-02-01
 title: "The Fallen Time"
 cover: "https://unsplash.it/400/300/?random?TheFallenTime"
 categories: 
-    - Tech
-    - React
+    - 尝试
 tags:
     - test
     - something
